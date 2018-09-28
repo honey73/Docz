@@ -29,11 +29,11 @@ Seoul, South Korea  (Sep. 2001- Oct. 2009)
         1.    Project Leader, Number Portability DB system for SKTelecom  (2003-2008)  
             - **Designed** the system hardware/software functions
             - Created Oracle Database scripts for the operator
-            - Maintenanced the system including developing new and enhanced feature
+            - Maintenance for the system including development new and enhanced feature
             - Used *Veritas Cluster, Orbix CORBA, ORACLE Database, Main Memory Database*
 
         2.    Project Leader,  Number Portability DB system for LG U+  ( 2006-2008)  
-            - Maintenanced the system including developing new and enhanced feature
+            - Maintenance for the system including development new and enhanced feature
 
         3.    Project Leader,  Intelligent Service Framework for SKTelecom  (2006-2007)  
             - Designed the streaming server and the face recognition client
@@ -48,7 +48,7 @@ Seoul, South Korea  (Sep. 2001- Oct. 2009)
 
 
 * ###    NEXTWAVE  
-Seoul, South Korea  (Jul. 1998 - Aug. 2001)  
+Seoul, South Korea  (Jul. 1998 - May. 2001)  
 
     *  ####Software Engineer
 
